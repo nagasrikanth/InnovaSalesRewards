@@ -1,0 +1,8 @@
+com\Innova\rewards\repository\CustomerRepository.class
+com\Innova\rewards\model\B2BCustomer.class
+com\Innova\rewards\model\B2BReward.class
+com\Innova\rewards\service\RewardsServiceMock.class
+com\Innova\rewards\SalesRewardsApplication.class
+com\Innova\rewards\service\RewardsService.class
+com\Innova\rewards\model\Transaction.class
+com\Innova\rewards\controller\RewardsController.class
